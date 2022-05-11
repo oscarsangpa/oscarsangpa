@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, welcome to my GitHub! 👋
 
+```javascript
+const oscar = {
+  code: [Javascript, HTML, CSS, SASS],
+  tools: [React, NodeJS, Express, MongoDB, Git, WSL],
+  interestedIn: [ MaterialUI, ChackraUI, ZSH, Testing]
+  },
+}
+```
 <!--
 **oscarsangpa/oscarsangpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
