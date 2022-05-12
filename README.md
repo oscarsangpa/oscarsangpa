@@ -3,7 +3,7 @@
 ```javascript
 const oscar = {
   code: [Javascript, HTML, CSS],
-  tools: [React, SASS, NodeJS, Express, MongoDB, Mongoose, Git, WSL],
+  tools: [React, SASS, Bootstrap, NodeJS, Express, MongoDB, Mongoose, Git, WSL],
   interestedIn: [WepResponsive, MaterialUI, ChackraUI, ZSH, Testing]
   },
 }
