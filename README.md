@@ -1,8 +1,8 @@
-## <p align="center"> Hi, welcome to my GitHub! 👋 </p> 
+## Hi, welcome to my GitHub! 👋
 
 ### <p align="center"> I present my technology stack: </p>
 
- #### <p align="center">For Front-end</p>
+ #### <p align="center"> For Front-end: </p>
  
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 
- #### <p align="center">For Back-end: </p>
+ #### <p align="center"> For Back-end: </p>
  
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 
- #### <p align="center">🛠 Tools 🛠</p>
+ #### <p align="center"> Tools </p>
  
 
 <p align="center">
