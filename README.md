@@ -1,6 +1,6 @@
 ## Hi, welcome to my GitHub! 👋
 
-### <p align="center"> I present my technology stack: </p>
+### <p align="center"> My technology stack: </p>
 
  #### <p align="center"> For Front-end: </p>
  
