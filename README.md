@@ -2,8 +2,9 @@
 
 
  #### Frontend
- [![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,sass&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,sass,nodejs,expressjs,mongodb&theme=light)](https://skillicons.dev)
  
+ <!--
  #### Backend
  [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb&theme=light)](https://skillicons.dev)
  
@@ -12,7 +13,7 @@
  
  #### Technologies to come...(spoiler alert!😱)
  [![My Skills](https://skillicons.dev/icons?i=ts,angular,docker,jest,firebase&theme=light)](https://skillicons.dev)...
-
+-->
 
 <!--
 **oscarsangpa/oscarsangpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
