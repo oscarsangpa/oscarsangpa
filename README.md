@@ -1,8 +1,10 @@
 ## Hi, welcome to my GitHub! 👋
 
 
- #### Frontend
- [![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,sass,nodejs,expressjs,mongodb&theme=light)](https://skillicons.dev)
+ #### Technologies
+ [![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,sass,nodejs,expressjs,mongodb,git&theme=light)](https://skillicons.dev)
+ #### Technologies to come...(spoiler alert!😱)
+ [![My Skills](https://skillicons.dev/icons?i=ts,angular,docker,jest,firebase&theme=light)](https://skillicons.dev)...
  
  <!--
  #### Backend
