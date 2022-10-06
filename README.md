@@ -1,44 +1,18 @@
 ## Hi, welcome to my GitHub! 👋
 
-### <p align="center"> My technology stack: </p>
 
- #### <p align="center"> For Front-end: </p>
+ #### Frontend
+ [![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,sass&theme=light)](https://skillicons.dev)
+ 
+ #### Backend
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb&theme=light)](https://skillicons.dev)
+ 
+ #### Tools
+ [![My Skills](https://skillicons.dev/icons?i=git,github,powershell,vscode,webpack&theme=light)](https://skillicons.dev)
  
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,bootstrap,jquery&theme=light" />
-  </a>
-</p>
-
-
- #### <p align="center"> For Back-end: </p>
- 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb&theme=light" />
-  </a>
-</p>
-
-
- #### <p align="center"> Tools </p>
- 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode&theme=light" />
-  </a>
-</p>
-
-
- #### <p align="center"> Technologies to come...(spoiler alert!😱) </p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,angular,docker&theme=light" /> ...
-  </a>
-</p>
+ #### <p> Technologies to come...(spoiler alert!😱) </p>
+ [![My Skills](https://skillicons.dev/icons?i=ts,angular,docker,jest&theme=light)](https://skillicons.dev)...
 
 
 <!--
