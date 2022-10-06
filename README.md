@@ -10,9 +10,8 @@
  #### Tools
  [![My Skills](https://skillicons.dev/icons?i=git,github,powershell,vscode,webpack&theme=light)](https://skillicons.dev)
  
-
- #### <p> Technologies to come...(spoiler alert!😱) </p>
- [![My Skills](https://skillicons.dev/icons?i=ts,angular,docker,jest&theme=light)](https://skillicons.dev)...
+ #### Technologies to come...(spoiler alert!😱)
+ [![My Skills](https://skillicons.dev/icons?i=ts,angular,docker,jest,firebase&theme=light)](https://skillicons.dev)...
 
 
 <!--
