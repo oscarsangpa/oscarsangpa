@@ -14,7 +14,7 @@
  [![My Skills](https://skillicons.dev/icons?i=git,github,powershell,vscode,webpack&theme=light)](https://skillicons.dev)
  
  #### To come...(spoiler alert!😱)
- [![My Skills](https://skillicons.dev/icons?i=ts,angular,docker,jest,firebase&theme=light)](https://skillicons.dev)...
+ [![My Skills](https://skillicons.dev/icons?i=ts,angular,docker,jest,firebase,nextjs&theme=light)](https://skillicons.dev)...
 -->
 
 <!--
