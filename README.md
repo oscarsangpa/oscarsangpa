@@ -2,9 +2,9 @@
 
 
  #### Technologies
- [![My Skills](https://skillicons.dev/icons?i=react,redux,remix,js,ts,html,css,sass,nodejs,expressjs,mongodb,git&theme=dark&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,remix,redux,ts,js,git,html,css,sass,nodejs,expressjs,mongodb&theme=light&perline=6)](https://skillicons.dev)
  #### To come...(spoiler alert!😱)
- [![My Skills](https://skillicons.dev/icons?i=nextjs,docker,jest,firebase&theme=dark)](https://skillicons.dev)...
+ [![My Skills](https://skillicons.dev/icons?i=nextjs,docker,jest,firebase&theme=light)](https://skillicons.dev)...
  
  <!--
  #### Backend
